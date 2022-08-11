@@ -1,0 +1,10 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '11.0'
+
+target 'liveness-app' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for liveness-app
+  pod 'LivenessSDK', git: 'https://github.com/nodefluxio/ios-sdk-face-liveness.git', tag: '2.0.0'
+end
