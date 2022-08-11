@@ -1,2 +1,2 @@
 # ios-face-liveness
-Nodeflux Face Liveness IOS SDK
+Nodeflux Face Liveness IOS SDK Sample App
